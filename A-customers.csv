@@ -1,0 +1,101 @@
+customer_id,name,email,phone,city,country
+1,Steven Marks,emily97@beard-franklin.com,3619046442,Lake Timothybury,Malta
+2,Luis Mcclure,christopher10@kennedy.net,001-052-015-7632,Mcknightmouth,Peru
+3,Diana Rivas,rwalker@peterson-lutz.info,+1-026-769-5094,Youngberg,Argentina
+4,Jeffrey Howard,jeremiah57@smith.org,(312)689-2475x013,Benjaminland,Benin
+5,Jonathan Rasmussen,matthewbell@nelson.info,330.332.0544,Lake Kristen,Aruba
+6,David Moore,elutz@roberts.info,440.285.2141x810,New Nancy,Iraq
+7,Lance Henderson MD,hollyknapp@price.com,0967848617,Port Marc,Belgium
+8,Trevor Martinez,bruce23@arnold.biz,(906)433-0760x3079,Port Valeriehaven,Marshall Islands
+9,Walter Stevens,smorrow@gmail.com,+1-636-151-6660,North Christopher,Rwanda
+10,Julia Smith,ortizsandra@rivera-thompson.info,365-527-8331x77230,New Lori,Kiribati
+11,Michael Lee,joycemoore@morrison.biz,164-888-7554x826,Smithberg,Namibia
+12,Tracy Rodriguez,ruizwilliam@yahoo.com,+1-734-470-7002,Lindafurt,Philippines
+13,Donald Roberts,johnsoncarolyn@hotmail.com,085.085.5190,Franktown,Guyana
+14,Paul Thomas,thomaseduardo@yahoo.com,626-343-3295x8812,Chavezbury,Macedonia
+15,Sara Munoz,mitchellchristopher@morgan-jones.biz,(729)154-3115x6842,Sheilaville,Netherlands
+16,Christopher Nelson,anthony52@gmail.com,(485)550-7055x7337,New Jean,Argentina
+17,Ronald Salinas,hquinn@perez.org,001-721-167-5001x4470,Sarahtown,Guadeloupe
+18,Kyle Kirk,jenniferthomas@avery.info,(373)246-7337,West Bryanside,Gabon
+19,Teresa Pugh,nelsonchristopher@hotmail.com,001-586-861-2893x893,Grimestown,Tuvalu
+20,Victoria Mack,jessica80@hotmail.com,879.972.0115x3232,North Anthony,Congo
+21,Ethan West,stevenprince@burton.com,(805)322-4344x5477,New Carol,Czech Republic
+22,Justin Bradley,tammypatterson@herrera.com,583-033-9496x3556,South Traceymouth,Cote d'Ivoire
+23,Amy Larson,zachary39@hotmail.com,614-549-9145,Stanleystad,Finland
+24,Troy Hughes,karenlynch@freeman.com,504.604.8082x233,North Craig,Grenada
+25,Brett Cross,jenniferrobinson@smith.org,001-475-579-1016x62832,New Christophertown,Australia
+26,Elizabeth Castillo,stephen65@yahoo.com,942-548-0345x7178,East Holly,Guam
+27,Tracy Reed DDS,award@williams.com,(393)926-6715,Briantown,Nicaragua
+28,Robert Bowen,andersonkatrina@yahoo.com,001-860-469-0796,Lake Kevin,Lesotho
+29,Allison Rodgers,mcknightjacqueline@gmail.com,(946)441-4047x365,Arnoldport,Montenegro
+30,Thomas Perez,maldonadopaige@hotmail.com,329-111-6823,West Heathermouth,Svalbard & Jan Mayen Islands
+31,Brooke Mitchell,sberry@yahoo.com,(854)923-0189x2690,East Maureenstad,Russian Federation
+32,Steven Spears,jensencody@fleming-morrow.com,+1-103-418-0607,South Josephfurt,Liberia
+33,Rebecca Warren,hernandezbrandon@yahoo.com,(261)782-3149,Crystalborough,Pitcairn Islands
+34,Denise Calderon,psnyder@gmail.com,(127)114-0516x858,Campbellfurt,Panama
+35,Rodney Smith,dawn95@yahoo.com,001-158-449-0706x0761,Elainefort,Philippines
+36,Alexandra Brown,robin80@hernandez.com,358.032.7913x9609,Lake Mary,Mexico
+37,Paula Martin,arobinson@hotmail.com,0276812104,Wellsfurt,Martinique
+38,Brian Leon,nicolebaker@gmail.com,(984)685-0748x4500,Port Jessicaville,Kenya
+39,Elizabeth Wilkins,kmoore@li.com,111-778-6587x74551,New Jeffreychester,Korea
+40,Thomas Watson,hardyjoel@yahoo.com,478-821-7097x76304,Walkerport,Singapore
+41,Eric Fernandez,beverlyclark@day.com,(520)175-6137,Vazquezshire,Barbados
+42,Bobby Hughes,victor78@hotmail.com,779-808-7413,South Sarah,Nigeria
+43,Brandi Martinez,mckenzieshelton@gmail.com,001-620-777-2148,New Monique,Timor-Leste
+44,Jacqueline Tucker,ashleyhughes@montoya-gillespie.biz,001-571-416-7172x904,Port Johnmouth,Seychelles
+45,Andrea Jacobson,nking@ross-jones.info,416.423.3337,Gilbertside,Saudi Arabia
+46,Gabriel Brown,christopherelliott@miller.com,+1-439-752-6647x342,South Benjaminfurt,Mongolia
+47,Angela Swanson,mark70@gmail.com,001-887-123-9817x50011,West Craig,Sao Tome and Principe
+48,Brandon Wilson,john84@gmail.com,(928)528-3946x4168,Hernandezshire,Central African Republic
+49,Rebecca Taylor,aturner@gmail.com,001-863-539-9407x24781,Port Aprilshire,Antarctica (the territory South of 60 deg S)
+50,Madison Garcia,mboyer@gmail.com,218-986-6300,Smithton,Uganda
+51,Catherine Kim,qboyd@yahoo.com,592.760.4523,South Barbara,Azerbaijan
+52,Ann Myers,bwhite@wright-harris.com,378-853-1083,Smithville,Heard Island and McDonald Islands
+53,Ronald Higgins,mercedes21@herrera-hughes.com,985.724.3720x5585,Port Andrea,Denmark
+54,Caleb Johnson,ugonzales@hotmail.com,965.047.6693,Lake Marvinborough,Saudi Arabia
+55,Monica Holloway,scott74@lopez.com,6018982886,Holthaven,Ethiopia
+56,Joseph Ward,christophergarrett@allen.org,001-836-564-2906x5403,West Charles,Angola
+57,Jessica Griffin,michaelbrown@yahoo.com,+1-702-362-3123,East Christopherstad,Montserrat
+58,Lindsey Reed,crystal03@brady.biz,580-141-5227,Reynoldsmouth,Greece
+59,Brandon Bartlett,lcraig@lopez.info,001-399-078-4988,South Alyssa,Ireland
+60,Amanda Mcgrath,emilyaguilar@freeman.org,998-912-7707x30195,West Johnbury,United States of America
+61,Brian Smith,nathan89@cobb.com,+1-693-317-6944x734,Deniseview,Angola
+62,Victoria Hayes,paul93@reese.com,498-104-2334x548,Bassfort,Lithuania
+63,Richard Johnson,cindygonzales@wilson.net,156-640-2818x68664,North Lisaburgh,Guam
+64,Alexandra Rodriguez,pdavis@gmail.com,294.158.9384x51058,East Sharonmouth,Uganda
+65,Angel Hughes,timothybaker@yahoo.com,523-014-2046x642,East Stevenside,Dominican Republic
+66,Juan Sanchez,natalie41@yahoo.com,791-185-9097x0405,Carlaview,Sierra Leone
+67,Robert Russell,richard09@hotmail.com,001-754-228-0520,South Brandon,Holy See (Vatican City State)
+68,Kenneth Brown,wrightbrian@yahoo.com,089-240-8181,Brentborough,Taiwan
+69,Mark Andrews,porterashley@horn.com,296.604.7022,West Joseph,Montenegro
+70,Eric Velasquez,ronnie48@hotmail.com,001-601-748-8316,Jacksonmouth,Falkland Islands (Malvinas)
+71,Mary Curry,fberry@martinez.com,+1-926-052-4674,Port Scottberg,Hong Kong
+72,Tracy Anthony,jryan@gmail.com,001-863-072-9175x9607,Port Lauraborough,Korea
+73,Dave Cross,jeremyedwards@hotmail.com,040.937.5656,West Justinfort,Bahamas
+74,Amy Nelson,cynthia00@yahoo.com,940.209.9398,Shellychester,Honduras
+75,Richard Turner,cvaughn@gmail.com,526-035-1390,Mitchellborough,Antigua and Barbuda
+76,Andrea Moreno,vaughanjacob@yahoo.com,(708)012-0109,South Rose,Russian Federation
+77,Paul Barrera,kathleendavid@may.com,555-340-8475x6651,North Anthonyton,Malta
+78,Ryan Davis,christianthomas@yahoo.com,860.636.8812x85115,Port Ronaldtown,Saint Pierre and Miquelon
+79,Nichole Brown,lawrence35@gmail.com,+1-904-110-3230x954,North Stephen,Bhutan
+80,Sydney Silva,ndavidson@yahoo.com,855.236.8000,West Paulport,Zimbabwe
+81,Natalie Lester,masontodd@roberts.com,373-135-9563,Garyview,Mauritania
+82,Calvin Wood,connor69@yahoo.com,+1-353-035-8153x261,South Edwardburgh,Micronesia
+83,Jacqueline Bowers,ryansmith@gmail.com,279-919-5435x07651,Dannymouth,Micronesia
+84,Jeffrey Martin,kwilliams@gmail.com,+1-972-038-2119,New Laurastad,Bahrain
+85,Amy Richardson,ellisandrew@gmail.com,4025138829,Jamesmouth,Liechtenstein
+86,Christopher Webster,denise80@gmail.com,110-283-6561x7662,Davisstad,Cuba
+87,Abigail Ruiz,martin73@wells.com,001-259-827-2273,Leeville,Montenegro
+88,Alexandria Cruz,osnyder@ryan.com,(922)355-4587,Millerton,Kuwait
+89,Julie Gonzalez,ericbarnes@banks.com,+1-370-605-8588x5996,Ericside,Mozambique
+90,Christopher Fox,john73@hotmail.com,+1-180-304-1858x034,South Sarahfort,Guinea
+91,Amy Jones,parkerthomas@wilson.biz,0998438783,West Kristinton,Ecuador
+92,Steven Baker,brownalex@yahoo.com,939.485.0904,Port Ashleyburgh,Cayman Islands
+93,Jason Patton,breanna55@gmail.com,631.252.3710x970,West Jessicamouth,Japan
+94,Ronald Thomas,michaelgibson@hotmail.com,+1-093-759-2609x28427,North Lindsay,Bermuda
+95,Olivia Flynn,jeffreyfry@lopez-guerrero.com,001-738-077-6477x70231,Port Edward,Saint Martin
+96,George Reyes,donaldsonbruce@yahoo.com,822-429-2132x316,New Albert,New Zealand
+97,Olivia Lynch,vmorris@jones.com,001-058-500-7708x368,West Kevin,Egypt
+98,Alicia Robinson,uwilson@yahoo.com,001-207-845-0216x460,Timothyport,Yemen
+99,Tracy Brown,smurphy@davis-snyder.com,398.119.7504x289,South Johnbury,Nigeria
+100,Dylan Prince,wilsonricky@hotmail.com,103-273-9198,Simpsonburgh,South Georgia and the South Sandwich Islands

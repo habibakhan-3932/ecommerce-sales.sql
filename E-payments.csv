@@ -1,0 +1,201 @@
+payment_id,order_id,amount,payment_method,payment_status
+1,1,541.92,Debit Card,Failed
+2,2,815.2,UPI,Pending
+3,3,381.03000000000003,Debit Card,Success
+4,4,253.41,Debit Card,Pending
+5,5,505.02,Credit Card,Pending
+6,6,109.9,UPI,Success
+7,7,930.6999999999999,Net Banking,Failed
+8,8,845.5200000000001,Debit Card,Success
+9,9,649.56,UPI,Success
+10,10,539.26,Credit Card,Pending
+11,11,363.31,UPI,Failed
+12,12,464.27,UPI,Success
+13,13,381.31,Net Banking,Success
+14,14,819.7900000000001,Credit Card,Success
+15,15,507.41,UPI,Failed
+16,16,302.8,Debit Card,Pending
+17,17,883.69,Debit Card,Success
+18,18,726.61,Net Banking,Failed
+19,19,355.28,UPI,Success
+20,20,289.14,UPI,Failed
+21,21,101.87,UPI,Success
+22,22,823.76,Debit Card,Failed
+23,23,217.24,UPI,Failed
+24,24,1178.74,UPI,Success
+25,25,453.49,Credit Card,Pending
+26,26,486.55,Net Banking,Pending
+27,27,146.23,UPI,Pending
+28,28,514.64,Debit Card,Failed
+29,29,791.68,Debit Card,Success
+30,30,272.77,Credit Card,Success
+31,31,396.71,Credit Card,Failed
+32,32,354.77,Credit Card,Success
+33,33,252.51,Net Banking,Failed
+34,34,253.41,Debit Card,Failed
+35,35,390.81,Net Banking,Failed
+36,36,1120.49,Debit Card,Success
+37,37,245.54,Credit Card,Success
+38,38,503.5899999999999,UPI,Failed
+39,39,128.22,Credit Card,Failed
+40,40,654.5999999999999,Net Banking,Success
+41,41,123.67,Net Banking,Success
+42,42,802.9200000000001,Credit Card,Failed
+43,43,679.8,Credit Card,Pending
+44,44,327.26,UPI,Failed
+45,45,307.2,Net Banking,Success
+46,46,238.12,Credit Card,Success
+47,47,436.08,UPI,Failed
+48,48,653.72,UPI,Success
+49,49,883.69,Net Banking,Failed
+50,50,298.02,Debit Card,Failed
+51,51,444.61,Credit Card,Pending
+52,52,36.19,Net Banking,Pending
+53,53,107.27,Credit Card,Success
+54,54,273.48,Credit Card,Pending
+55,55,685.65,Net Banking,Success
+56,56,488.55,Net Banking,Failed
+57,57,36.19,Debit Card,Success
+58,58,449.87,UPI,Failed
+59,59,828.18,Debit Card,Failed
+60,60,600.8199999999999,Credit Card,Failed
+61,61,1297.3,UPI,Failed
+62,62,21.55,UPI,Failed
+63,63,703.41,Debit Card,Pending
+64,64,250.70000000000002,Debit Card,Success
+65,65,26.35,Credit Card,Failed
+66,66,21.8,Credit Card,Failed
+67,67,559.56,Debit Card,Success
+68,68,307.36,Net Banking,Pending
+69,69,278.59,UPI,Success
+70,70,399.89,Debit Card,Success
+71,71,484.24,Credit Card,Failed
+72,72,493.09,Credit Card,Success
+73,73,175.33,Net Banking,Pending
+74,74,253.41,UPI,Pending
+75,75,620.71,Net Banking,Failed
+76,76,493.09,Debit Card,Success
+77,77,908.4,Credit Card,Success
+78,78,530.1,Credit Card,Success
+79,79,313.68,Debit Card,Failed
+80,80,470.91999999999996,Debit Card,Failed
+81,81,395.84,Net Banking,Pending
+82,82,473.14,Debit Card,Failed
+83,83,569.04,Credit Card,Pending
+84,84,436.56,Net Banking,Failed
+85,85,778.82,Debit Card,Success
+86,86,743.9200000000001,Credit Card,Success
+87,87,1006.8399999999999,Net Banking,Failed
+88,88,655.03,Net Banking,Pending
+89,89,362.78999999999996,UPI,Failed
+90,90,867.72,UPI,Pending
+91,91,378.58,Debit Card,Pending
+92,92,886.8,UPI,Failed
+93,93,315.46000000000004,Credit Card,Pending
+94,94,386.42,Debit Card,Pending
+95,95,255.94,UPI,Pending
+96,96,525.4100000000001,Credit Card,Success
+97,97,46.17,Credit Card,Failed
+98,98,107.27,Debit Card,Pending
+99,99,148.04000000000002,Debit Card,Pending
+100,100,288.94,Credit Card,Pending
+101,101,455.24,Credit Card,Failed
+102,102,393.88,Credit Card,Failed
+103,103,587.47,Net Banking,Failed
+104,104,830.19,Net Banking,Pending
+105,105,245.54,Credit Card,Pending
+106,106,393.71,Net Banking,Pending
+107,107,986.75,Net Banking,Failed
+108,108,49.32,UPI,Success
+109,109,436.56,Credit Card,Pending
+110,110,255.94,UPI,Success
+111,111,461.35,Credit Card,Failed
+112,112,107.27,Net Banking,Success
+113,113,573.76,Credit Card,Failed
+114,114,447.13,Credit Card,Pending
+115,115,67.84,Credit Card,Success
+116,116,478.0,Credit Card,Success
+117,117,203.04,Credit Card,Pending
+118,118,184.2,Debit Card,Success
+119,119,807.34,Net Banking,Success
+120,120,312.94,Net Banking,Success
+121,121,445.42,UPI,Failed
+122,122,1012.1299999999999,UPI,Pending
+123,123,741.41,Credit Card,Pending
+124,124,683.52,Debit Card,Pending
+125,125,222.61,Net Banking,Pending
+126,126,873.12,Net Banking,Failed
+127,127,276.89,UPI,Success
+128,128,156.59,Debit Card,Failed
+129,129,73.85,Credit Card,Success
+130,130,101.87,UPI,Failed
+131,131,572.04,Debit Card,Failed
+132,132,296.25,Credit Card,Pending
+133,133,302.8,Net Banking,Pending
+134,134,264.47,UPI,Success
+135,135,360.79,Net Banking,Pending
+136,136,345.75,Debit Card,Pending
+137,137,425.65,Debit Card,Success
+138,138,223.45,Debit Card,Pending
+139,139,514.19,Credit Card,Failed
+140,140,1032.47,Credit Card,Success
+141,141,1002.1700000000001,UPI,Failed
+142,142,211.42,Net Banking,Pending
+143,143,486.22,Debit Card,Success
+144,144,634.8299999999999,Credit Card,Success
+145,145,107.27,Credit Card,Success
+146,146,101.87,UPI,Failed
+147,147,396.71,Credit Card,Failed
+148,148,804.21,Debit Card,Success
+149,149,251.13,Debit Card,Pending
+150,150,927.3599999999999,Net Banking,Pending
+151,151,176.76,Debit Card,Success
+152,152,67.84,UPI,Pending
+153,153,867.97,Debit Card,Failed
+154,154,101.87,Credit Card,Failed
+155,155,67.84,UPI,Failed
+156,156,355.44,Debit Card,Failed
+157,157,616.1999999999999,UPI,Pending
+158,158,591.75,UPI,Success
+159,159,175.33,Credit Card,Success
+160,160,514.64,Credit Card,Pending
+161,161,653.11,Net Banking,Success
+162,162,67.84,Debit Card,Failed
+163,163,238.12,Credit Card,Failed
+164,164,594.67,Credit Card,Pending
+165,165,764.98,Debit Card,Pending
+166,166,411.25,Debit Card,Success
+167,167,486.28999999999996,Debit Card,Success
+168,168,724.43,Net Banking,Failed
+169,169,527.75,UPI,Failed
+170,170,723.3,UPI,Failed
+171,171,840.8399999999999,UPI,Success
+172,172,73.85,Debit Card,Failed
+173,173,478.19,Credit Card,Success
+174,174,447.13,UPI,Failed
+175,175,239.93,Credit Card,Success
+176,176,48.34,Net Banking,Success
+177,177,184.2,Credit Card,Failed
+178,178,498.68999999999994,Debit Card,Failed
+179,179,264.66,Debit Card,Pending
+180,180,331.9,Debit Card,Pending
+181,181,768.79,UPI,Failed
+182,182,299.02,UPI,Failed
+183,183,606.39,Debit Card,Success
+184,184,369.14,Net Banking,Pending
+185,185,626.04,Debit Card,Success
+186,186,222.61,UPI,Pending
+187,187,791.44,UPI,Pending
+188,188,255.94,Net Banking,Success
+189,189,223.45,Net Banking,Pending
+190,190,363.64000000000004,Net Banking,Pending
+191,191,447.13,Credit Card,Pending
+192,192,144.89,Net Banking,Pending
+193,193,172.74,UPI,Failed
+194,194,186.35,UPI,Failed
+195,195,369.14,Debit Card,Success
+196,196,975.31,Credit Card,Failed
+197,197,318.1,Net Banking,Pending
+198,198,967.76,Debit Card,Success
+199,199,184.2,Debit Card,Success
+200,200,21.55,Net Banking,Pending
